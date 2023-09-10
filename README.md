@@ -3,4 +3,4 @@ This is just a code snippet touching all areas of image classification, from dat
 to smoothen the noise from the small featured greyscale image.
 It also utilizes the resnet pretrained model from pytorch.
 In the training, the learning rate scheduler and the early stopping were implemented as well.
-The same was sone for the custom CNN model architecture as the second model.
+The same was done for the custom CNN model architecture as the second model.
